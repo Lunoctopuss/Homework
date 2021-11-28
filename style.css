@@ -13,7 +13,7 @@ h1 {
     border: solid blueviolet;
 }
 
-#kitten{
+#sky{
     border-radius: 30px;
     margin: auto;
     align-items: center;
@@ -21,7 +21,6 @@ h1 {
     box-shadow: 10px 10px 8px #888888;
 }
 
-#kitten:hover {
-    transform: scale(.9);
-    opacity: 0.85;
+#sky:hover{
+    transform: scale(1.5);
 }
