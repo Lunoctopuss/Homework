@@ -28,6 +28,8 @@ function eight() {
 
 //TASK 4
 
+//Struggled with this one!
+
 function loop() {
 
 const array1 = [1, 2, 3, 4]
@@ -37,18 +39,3 @@ for (let i = 0; i < array1.length; i++) {
     System.out.print(array1[i]+``);
 }
 }
-
-
-// for (String s: elements) {           
-//     //Do your stuff here
-//     System.out.println(s); 
-// }
-
-
-
-
-
-
-
-
-//Struggled with this one!
