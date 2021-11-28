@@ -2,7 +2,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(255, 205, 253);
-    padding: 5em;
+    padding: 4em;
     border: 5;
     text-align: center;    
 }
@@ -11,4 +11,17 @@ h1 {
     background-color: rgb(159, 236, 255);
     border-radius: 12px;
     border: solid blueviolet;
+}
+
+#kitten{
+    border-radius: 30px;
+    margin: auto;
+    align-items: center;
+    width: 50%;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+#kitten:hover {
+    transform: scale(.9);
+    opacity: 0.85;
 }

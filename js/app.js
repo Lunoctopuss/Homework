@@ -28,4 +28,27 @@ function eight() {
 
 //TASK 4
 
+function loop() {
+
+const array1 = [1, 2, 3, 4]
+for (let i = 0; i < array1.length; i++) {
+    // console.log('My array position = ${i} contains $array1[i]}');
+    // array1 = document.getElementById("loop").value;
+    System.out.print(array1[i]+``);
+}
+}
+
+
+// for (String s: elements) {           
+//     //Do your stuff here
+//     System.out.println(s); 
+// }
+
+
+
+
+
+
+
+
 //Struggled with this one!
